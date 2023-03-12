@@ -1,0 +1,7 @@
+# Project exclude paths
+/cmake-build-debug/
+/.clang-format
+/.idea/.gitignore
+/.idea/Friend_class.iml
+/.idea/misc.xml
+/.idea/modules.xml
